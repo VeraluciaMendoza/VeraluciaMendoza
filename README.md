@@ -2,15 +2,15 @@
 
 ## ¿Quién soy?
 
-### Mi nombre es Veralucia Mendoza, **Programadora FullStack** orientada al desarrollo de aplicaciones web con diseño responsive.
+Mi nombre es Veralucia Mendoza, **Programadora FullStack** orientada al desarrollo de aplicaciones web con diseño responsive.
 
-### Mi interés y habilidades evolucionaron hacia el mundo de la programación, comenzando de forma autodidacta, impulsada por una curiosidad innata y un deseo de entender y crear en el mundo digital.
+Mi interés y habilidades evolucionaron hacia el mundo de la programación, comenzando de forma autodidacta, impulsada por una curiosidad innata y un deseo de entender y crear en el mundo digital.
 
-### Cuento tambien con experiencia en procesos administrativos y una alta orientación al servicio al cliente.
+Cuento tambien con experiencia en procesos administrativos y una alta orientación al servicio al cliente.
 
 ## ¿Qué tecnologías uso?
 
-### A lo largo de este tiempo he logrado adquirir conocimientos y experiencia en las principales tecnologias:
+A lo largo de este tiempo he logrado adquirir conocimientos y experiencia en las principales tecnologias:
 - **HTML**
 - **CSS**
 - **JavaScript**
@@ -22,11 +22,12 @@
 - **MongoDB**
 - **Sequelize**
 - **GIT**
-### Entre otras herramientas.
+
+Entre otras herramientas.
 
 ## ¿A dónde me dirijo?
 
-### Mi objetivo laboral es continuar aprendiendo y mantenerme creando software escalable y de calidad.
+Mi objetivo laboral es continuar aprendiendo y mantenerme creando software escalable y de calidad.
 
 ## No dudes en contatactarme! 🚀
 
